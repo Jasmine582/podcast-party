@@ -1,2 +1,3 @@
 # podcast-party
-Combining Flexbox and CSS Grid together
+Skill Crush Exercise
+praticing combining Flexbox and CSS Grid together
